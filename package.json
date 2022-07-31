@@ -1,0 +1,42 @@
+{
+  "name": "pac_platform",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NELopatin/pac_platform_back.git"
+  },
+  "author": "FostError <58390678+NELopatin@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.2.0",
+    "eslint-plugin-react": "^7.29.4",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "admin-bro": "^4.0.1",
+    "admin-bro-expressjs": "^2.1.1",
+    "admin-bro-mongoose": "^0.5.2",
+    "async": "^3.2.4",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-formidable": "^1.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.0",
+    "save": "^2.5.0"
+  },
+  "description": "",
+  "bugs": {
+    "url": "https://github.com/NELopatin/pac_platform_back/issues"
+  },
+  "homepage": "https://github.com/NELopatin/pac_platform_back#readme"
+}

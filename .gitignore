@@ -1,0 +1,7 @@
+# Project exclude paths
+/.adminbro
+/node_modules
+.env
+/package-lock.json
+/static/
+/yarn.lock
